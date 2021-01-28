@@ -6,10 +6,15 @@ Currently Finished:
 
 Backlog:
 > grit gate cleaned after quest (in general lost and found)
+
 > reading heirlooms put the tags on the quest 
+
 > fill in the unfinished area (anti-templar mutatants)
+
 > dominate / metamorphosis not showing the `current` faction rep
+
 > "learned diseases" tab and general learned tab for tinker
+
 > in a holy place pop-up
 
 > make a first basic mod 
